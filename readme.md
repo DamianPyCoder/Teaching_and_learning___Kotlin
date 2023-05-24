@@ -21,5 +21,10 @@
 
 
 ## 3. Clases
-
+- Como son las clases
+- Constructor
+- Init
+- Constructor secundario
+- Getters y setters
+- Visibilidad de las funciones
 
