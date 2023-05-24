@@ -2,8 +2,13 @@
 
 
 ## 1. Sintaxis básica
-[_] Comunicación con el terminal 
-
+- La terminal 
+- Variables
+- Condicionales
+- Bucles
+- Null
+- Listas
+- Arrays
 
 ## 2. Funciones
 
