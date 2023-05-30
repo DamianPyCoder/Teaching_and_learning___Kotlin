@@ -32,3 +32,4 @@
 
 ## 4. Proyecto en Android Studio
 - App de películas
+![](https://github.com/DamianPyCoder/Kotlin__TEACHING_in_Youtube/blob/main/screenshots/design_movieApp_1.png)
