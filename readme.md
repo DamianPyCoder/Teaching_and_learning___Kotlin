@@ -30,7 +30,7 @@
 
 
 
-## 4. Proyecto MOVIES APP con Android Studio
+## X. Proyecto MOVIES APP con Android Studio
 - Primer croquis de la aplicación
 ![](https://github.com/DamianPyCoder/Kotlin__TEACHING_in_Youtube/blob/main/screenshots/design_movieApp_1.png)
 ![](https://github.com/DamianPyCoder/Kotlin__TEACHING_in_Youtube/blob/main/screenshots/design_movieApp_2.png)
