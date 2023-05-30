@@ -28,3 +28,7 @@
 - Getters y setters
 - Visibilidad de las funciones
 
+
+
+## 4. Proyecto en Android Studio
+- App de películas
