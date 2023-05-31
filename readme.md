@@ -35,3 +35,5 @@
 ![](https://github.com/DamianPyCoder/Kotlin__TEACHING_in_Youtube/blob/main/screenshots/design_movieApp_1.png)
 ![](https://github.com/DamianPyCoder/Kotlin__TEACHING_in_Youtube/blob/main/screenshots/design_movieApp_2.png)
 
+- Paleta de colores
+![](https://github.com/DamianPyCoder/Kotlin__TEACHING_in_Youtube/blob/main/screenshots/design_movieApp_paletaColores.png)
