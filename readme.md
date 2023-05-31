@@ -31,7 +31,7 @@
 
 
 ## X. Proyecto MOVIES APP con Android Studio  
-- Tecnologías  
+ 
 ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/androidStudio100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/kotlinIcon100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/firebaseIcon100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/lottie100.png)
   
 - Primer croquis de la aplicación
