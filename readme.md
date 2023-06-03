@@ -34,9 +34,14 @@
  
 ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/androidStudio100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/kotlinIcon100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/firebaseIcon100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/lottie100.png)
   
+
 - Primer croquis de la aplicación
 ![](https://github.com/DamianPyCoder/Kotlin__TEACHING_in_Youtube/blob/main/screenshots/design_movieApp_1.png)
 ![](https://github.com/DamianPyCoder/Kotlin__TEACHING_in_Youtube/blob/main/screenshots/design_movieApp_2.png)
 
 - Paleta de colores
 ![](https://github.com/DamianPyCoder/Kotlin__TEACHING_in_Youtube/blob/main/screenshots/design_movieApp_paletaColores.png)
+
+
+- Code
+https://github.com/DamianPyCoder/Kotlin__TEACHING_in_Youtube/tree/main/MoviesApp
