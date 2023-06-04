@@ -28,6 +28,11 @@
 - Getters y setters
 - Visibilidad de las funciones
 
+## 4. Ejercicio práctico
+
+
+## 5. Buscaminas
+
 
 
 ## X. Proyecto MOVIES APP con Android Studio  
